@@ -1,5 +1,5 @@
 ### Enjoy and Welcome ! 😄👋
-### 🌱 I’m currently learning Kotlin
+### 🌱 I’m currently learning Java and Kotlin
 
 <!--
 **ashlyncp/ashlyncp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
